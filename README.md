@@ -8,4 +8,6 @@ This is a solution to reduce maternal mortality rate among rural women and their
 
 **How to view the application** 
 1. Download source code under source folder.
-2. Open the code in Android Studio and run the code in emulator or mobile.
+2. Open the code in Android Studio.
+3. Build the project.
+4. Run the code in emulator or mobile.
