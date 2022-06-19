@@ -6,6 +6,11 @@ Please use this template for submitting solutions for the Microsoft Azure Women'
 
 This is a solution to reduce maternal mortality rate among rural women and their babies, due to lack of resources and enough medical assistance.
 
+**Video**
+
+Checkout the app flow from Janani.mp4
+
+
 **Test App**
 1. Download the app-debug.apk file under idea folder.
 2. Install the apk and open the app
