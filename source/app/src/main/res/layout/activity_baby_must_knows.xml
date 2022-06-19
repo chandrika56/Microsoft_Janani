@@ -14,47 +14,10 @@
         <ImageView
             android:id="@+id/imageView15"
             android:layout_width="match_parent"
-            android:layout_height="274dp"
+            android:layout_height="1500dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"
-            app:srcCompat="@drawable/four" />
-
-        <ImageView
-            android:id="@+id/imageView16"
-            android:layout_width="match_parent"
-            android:layout_height="279dp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="0dp"
-            android:layout_marginStart="0dp"
-            app:srcCompat="@drawable/four" />
-
-        <ImageView
-            android:id="@+id/imageView17"
-            android:layout_width="wrap_content"
-            android:layout_height="383dp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="37dp"
-            android:layout_marginStart="57dp"
-            app:srcCompat="@drawable/four" />
-
-        <ImageView
-            android:id="@+id/imageView18"
-            android:layout_width="match_parent"
-            android:layout_height="255dp"
-            app:srcCompat="@drawable/four" />
-
-        <ImageView
-            android:id="@+id/imageView19"
-            android:layout_width="match_parent"
-            android:layout_height="249dp"
-            app:srcCompat="@drawable/four" />
+            app:srcCompat="@drawable/baby_mustknows" />
     </LinearLayout>
-
-
-
 </ScrollView>
