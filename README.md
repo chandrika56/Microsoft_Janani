@@ -8,7 +8,11 @@ This is a solution to reduce maternal mortality rate among rural women and their
 
 **Video**
 
-Checkout the app flow from Janani.mp4
+Checkout the app flow from idea/Janani.mp4
+
+**PPT**
+
+Checkout the ppt from idea/Microsoft_Janani.pptx
 
 
 **Test App**
