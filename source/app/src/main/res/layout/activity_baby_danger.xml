@@ -13,51 +13,54 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
-        app:srcCompat="@drawable/four" />
+        app:srcCompat="@drawable/baby_danger_1" />
 
     <ImageView
         android:id="@+id/imageView14"
         android:layout_width="271dp"
         android:layout_height="201dp"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="107dp"
-        app:srcCompat="@drawable/four" />
+        android:layout_marginEnd="71dp"
+        android:layout_marginBottom="295dp"
+        app:srcCompat="@drawable/baby_danger_2" />
 
     <TextView
         android:id="@+id/textView36"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/imageView14"
-        android:layout_marginTop="-107dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="491dp"
         android:text="@string/if_you_find_any_one_of_these_symptoms_call_to_the_number_below"
-        android:textSize="20dp"
-        android:layout_alignParentLeft="true" />
+        android:textSize="20dp" />
 
     <ImageButton
         android:id="@+id/imageButton4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:layout_marginBottom="14dp"
-        android:layout_marginStart="12dp"
-        app:srcCompat="@drawable/ic_phone_in_talk_black_24dp"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="12dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginBottom="93dp"
+        app:srcCompat="@drawable/ic_phone_in_talk_black_24dp"
         tools:ignore="VectorDrawableCompat" />
 
     <TextView
         android:id="@+id/textView37"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:layout_marginBottom="24dp"
-        android:layout_marginStart="85dp"
-        android:text="@string/click_here"
-        android:textSize="20dp"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="85dp" />
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="86dp"
+        android:layout_marginLeft="86dp"
+        android:layout_marginBottom="102dp"
+        android:text="@string/click_here"
+        android:textSize="20dp" />
 </RelativeLayout>
